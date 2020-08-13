@@ -3,8 +3,9 @@
 1. Create pages, implement basic html layout. Add favicon generated using [favicon.io](https://favicon.io).
 1. Add external styles.
 1. Add meta tags. Generated using [metatags.io](https://metatags.io/)
-1. Implement Custom CSS
-1. Implement Custom CSS
+1. Implement Custom CSS using the `style` tag
+1. Implement Custom CSS using separate CSS file
+1. Use [Tachyons](http://tachyons.io/) CSS framework
 
 Maybe additional step on how to add [structured data](https://developers.google.com/search/docs/data-types/recipe)
 
